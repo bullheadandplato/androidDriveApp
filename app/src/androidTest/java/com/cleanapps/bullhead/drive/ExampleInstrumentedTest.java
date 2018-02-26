@@ -1,4 +1,4 @@
-package com.example.bullhead.drive;
+package com.cleanapps.bullhead.drive;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
