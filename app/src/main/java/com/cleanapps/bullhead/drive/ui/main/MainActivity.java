@@ -1,7 +1,9 @@
-package com.cleanapps.bullhead.drive;
+package com.cleanapps.bullhead.drive.ui.main;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import com.cleanapps.bullhead.drive.R;
 
 public class MainActivity extends AppCompatActivity {
 
