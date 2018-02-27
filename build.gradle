@@ -24,7 +24,7 @@ task clean(type: Delete) {
 ext{
     compileSdkVersion=27
     buildToolsVersion='27.0.1'
-    supportLibraryVersion="27.0.2"
+    supportLibraryVersion="27.1.0"
     appVersion=1
     appVersionName="1.0.0.SNAPSHOT"
     gmsVersion='11.8.0'
