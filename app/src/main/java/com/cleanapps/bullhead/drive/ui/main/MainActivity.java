@@ -1,16 +1,16 @@
 package com.cleanapps.bullhead.drive.ui.main;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 
 import com.cleanapps.bullhead.drive.R;
+import com.cleanapps.bullhead.drive.ui.BaseActivity;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
-public class MainActivity extends AppCompatActivity implements MainView, View.OnClickListener {
+public class MainActivity extends BaseActivity implements MainView, View.OnClickListener {
 
     private MainPresenter presenter;
 

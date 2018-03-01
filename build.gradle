@@ -28,5 +28,5 @@ ext{
     appVersion=1
     appVersionName="1.0.0.SNAPSHOT"
     gmsVersion='11.8.0'
-    minVersion=18
+    minVersion=21
 }
