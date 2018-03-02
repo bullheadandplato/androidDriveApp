@@ -6,9 +6,9 @@ package com.cleanapps.bullhead.drive.ui.main;
  */
 
 public interface MainView {
-    void showText();
+    void showProgress();
 
-    void hideText();
-
+    void hideProgress();
     void setText(String text);
+
 }

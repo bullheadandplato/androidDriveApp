@@ -31,13 +31,13 @@ public class MainActivity extends BaseActivity implements MainView, View.OnClick
     }
 
     @Override
-    public void showText() {
-        tvMvp.setVisibility(View.VISIBLE);
+    public void showProgress() {
+        super.showProgress(true);
     }
 
     @Override
-    public void hideText() {
-        tvMvp.setVisibility(View.GONE);
+    public void hideProgress() {
+        super.hideProgress();
     }
 
     @Override
