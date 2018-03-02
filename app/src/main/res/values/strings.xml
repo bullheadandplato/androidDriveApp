@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Drive</string>
     <string name="click_me">Click Me!</string>
+    <string name="sign_in_google_drive">Sign In Google Drive</string>
+    <string name="sign_in_sky_drive">Sign In OneDrive</string>
 </resources>
